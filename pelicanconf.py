@@ -18,8 +18,8 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = ()
 
-# Social widget
-SOCIAL = (("LinkedIn", "https://linkedin.com/in/hiske-overweg"),)
+# Page order
+PAGE_ORDER_BY = 'order'
 
 DEFAULT_PAGINATION = False
 
