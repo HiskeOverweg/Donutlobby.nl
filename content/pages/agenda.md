@@ -4,9 +4,11 @@ order: 1
 ## Toekomstige evenementen
 staan hier binnenkort vermeld!
 
+![Alt Text]({static}/images/PDZ_presentatie.jpeg)
+
 ## Eerdere evenementen
 
-21-6-2024 Informatiemarkt Cycling4Climate
+21-6-2024 Duurzame markt Cycling4Climate
 
 7-6-2024 Startup markt, Sustainable Healthcare Challenge
 

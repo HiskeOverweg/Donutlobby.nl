@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  src:
+  url('NunitoSans_10pt-Regular.ttf') format('ttf'),
+  url('NunitoSans_10pt-Bold.ttf') format('ttf');
+}

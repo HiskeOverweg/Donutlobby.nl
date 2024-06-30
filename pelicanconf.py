@@ -1,7 +1,7 @@
 AUTHOR = "Hiske Overweg"
 SITENAME = "De Donutlobby"
 SITEURL = ""
-
+THEME = "./theme"
 PATH = "content"
 
 TIMEZONE = "Europe/Amsterdam"
