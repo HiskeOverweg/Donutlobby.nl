@@ -1,5 +1,5 @@
 Title: Agenda
-order: 1
+order: 3
 
 ## Toekomstige evenementen
 staan hier binnenkort vermeld!

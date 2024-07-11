@@ -1,5 +1,7 @@
-Title: Het grote VN klimaatsimulatiespel
+Title: Educatie
 order: 2
+
+## Het grote VN klimaatsimulatiespel
 
 > Het was fantastisch om te zien hoe dit spel aanzet tot samenwerking, ook tussen generaties
 
@@ -11,6 +13,8 @@ Droomde je er altijd al van om de belangen van een oliemaatschappij te behartige
 
 ![Alt Text]({static}/images/pdz_groep.png)
 
-Het grote VN klimaatsimulatiespel is ontwikkeld door de denktank [Climate Interactive](climateinteractive.org) en [MIT Sloan School of Management](https://mitsloan.mit.edu/).
+Het grote VN klimaatsimulatiespel is ontwikkeld door de denktank [Climate Interactive](climateinteractive.org) en [MIT Sloan Sustainability initiative](https://mitsloan.mit.edu/sustainability-initiative/welcome).
 
 ![Alt Text]({static}/images/logos.png)
+
+Geïnteresseerd in een sessie? Neem contact op via [info@donutlobby.nl](mailto:info@donutlobby.nl).
