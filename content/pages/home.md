@@ -38,4 +38,4 @@ Mijn missie: mensen laten zien hoe veel voldoening je kunt halen uit samenwerken
 
 ### Donuts?
 
-De donut in kwestie is de donut uit De Donuteconomie van Kate Raworth, een economisch model waarin ecologische grenzen niet worden overschreden (de buitenrand) en tegelijkertijd iedereen op aarde in zijn basisbehoefte wordt voorzien (de binnenrand).
+De donut in kwestie is de [donut](https://www.kateraworth.com/doughnut/) uit De Donuteconomie van [Kate Raworth](https://www.kateraworth.com/), een economisch model waarin ecologische grenzen niet worden overschreden (de buitenrand) en tegelijkertijd iedereen op aarde in zijn basisbehoefte wordt voorzien (de binnenrand).

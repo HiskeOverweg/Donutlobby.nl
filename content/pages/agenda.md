@@ -2,9 +2,11 @@ Title: Agenda
 order: 3
 
 ## Toekomstige evenementen
-staan hier binnenkort vermeld!
+* Woensdagavond 11 september, Pakhuis de Zwijger (details volgen)
+* Vrijdagavond 4 oktober, Duurzaamheidscentrum Hilversum (details volgen)
 
-![Alt Text]({static}/images/PDZ_presentatie.jpeg)
+![Alt Text]({static}/images/PDZ_presentation_2.jpg)
+<sub><sup>Foto: Pakhuis de Zwijger</sup></sub>
 
 ## Eerdere evenementen
 

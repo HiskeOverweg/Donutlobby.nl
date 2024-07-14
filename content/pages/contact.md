@@ -9,7 +9,8 @@ KvK 94262314
 
 BTW NL005075352B78
 
-### Partners
+
+# Partners
 
 ![Alt Text]({static}/images/logos.png)
 
