@@ -1,8 +1,5 @@
 /*
-	Name: Smashing HTML5
-	Date: July 2009
-	Description: Sample layout for HTML5 and CSS3 goodness.
-	Version: 1.0
+  Originally based off the Smashing HTML 5 layout, then heavily changed.
 	License: MIT <https://opensource.org/licenses/MIT>
 	Licensed by: Smashing Media GmbH <https://www.smashingmagazine.com/>
 	Original author: Enrique Ramírez <http://enrique-ramirez.com/>
@@ -20,6 +17,8 @@ body {
   color: #000305;
   font-family: Montserrat, sans-serif;
   line-height: 1.4;
+  --horizontal-page-margin: 7rem;
+  counter-reset: side-counter;
 }
 
 /* Headings */
@@ -157,7 +156,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
   background: #190098;
   color: #fff;
   min-height: 3em;
-  padding: 0 3em;
+  padding: 0 var(--horizontal-page-margin);
 }
 
 	/* Banner */
@@ -206,9 +205,57 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	Body
 *****************/
 #content {
+  margin-top: 2em;
   margin-bottom: 2em;
-  padding: 0 3em;
+  padding-left: var(--horizontal-page-margin);
+  box-sizing: border-box;
 }
+
+/*
+	Sidenotes
+*****************/
+side-block, side-ref {
+  font-size: 0.8em;
+  position: relative;
+}
+
+side-ref {
+  counter-increment: side-counter;
+}
+side-ref::after {
+    content: counter(side-counter);
+    vertical-align: baseline;
+    position: relative;
+    top: -0.5em;
+    font-size: 0.8em;
+}
+
+side-ref side-content::before {
+  content: counter(side-counter);
+  vertical-align: baseline;
+  position: relative;
+  top: -0.5em;
+  margin-right: 0.5em;
+  font-size: 0.8em;
+}
+
+@media (min-width: 1000px) {
+  #content {
+    --main-content-width: 55vw;
+    --sidenote-width: calc(100vw - var(--horizontal-page-margin) - var(--main-content-width));
+    width: var(--main-content-width);
+  }
+
+  side-content {
+    float: right;
+    clear: right;
+    margin-right: calc(-1 * var(--sidenote-width));
+    width: calc(var(--sidenote-width) - 4rem);
+    margin-bottom: 1rem;
+  }
+}
+
+
 
 /*
 	About
