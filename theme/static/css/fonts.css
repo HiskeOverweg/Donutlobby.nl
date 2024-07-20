@@ -1,8 +1,13 @@
 @font-face {
-  font-family: 'Nunito Sans';
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 400;
-  src:
-  url('NunitoSans_10pt-Regular.ttf') format('ttf'),
-  url('NunitoSans_10pt-Bold.ttf') format('ttf');
+  src: url('../fonts/Montserrat-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/Montserrat-Bold.ttf') format('truetype');
 }
