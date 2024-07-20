@@ -14,7 +14,7 @@ De Donutlobby maakt zich sterk voor een toekomstbestendige planeet. Ik verbreed 
 
 * Lezingen over het raakvlak tussen klimaat en gezondheid, klimaat en sociale gelijkheid, klimaat en data science/AI, klimaat en ...
 
-![Alt Text]({static}/images/Enroads_picture.jpg)
+![Alt Text]({static}/images/enroads_picture.jpg)
 
 
 
