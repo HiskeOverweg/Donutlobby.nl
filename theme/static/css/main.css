@@ -134,7 +134,16 @@ aside, nav, article, figure {
 }
 
 /***** Layout *****/
-img { max-width: 100%; }
+img {
+  max-width: 80%;
+  margin-left: 10%;
+}
+
+side-content img {
+  max-width: 100%;
+  margin: 0;
+}
+
 img.right, figure.right, div.figure.align-right {
   float: right;
   margin: 0 0 2em 2em;
