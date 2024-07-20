@@ -47,5 +47,11 @@
 
     {% include 'analytics.html' %}
     {% include 'disqus_script.html' %}
+    <script>
+      // Allows side-refs on mobile to show when pressed.
+      document.querySelectorAll('side-ref').forEach(element => {
+          element.setAttribute('tabindex', '0');
+      });
+    </script>
   </body>
 </html>

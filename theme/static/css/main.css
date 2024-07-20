@@ -21,6 +21,12 @@ body {
   counter-reset: side-counter;
 }
 
+@media not (min-width: 1000px) {
+  body {
+    --horizontal-page-margin: 0.5rem;
+  }
+}
+
 /* Headings */
 h1 {font-size: 2em }
 h2 {font-size: 1.571em}	/* 22px */
@@ -155,8 +161,9 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
   justify-content: space-between;
   background: #190098;
   color: #fff;
-  min-height: 3em;
-  padding: 0 var(--horizontal-page-margin);
+  padding: 1rem var(--horizontal-page-margin);
+  flex-wrap: wrap;
+  gap: 0.5em 1.2em;
 }
 
 	/* Banner */
@@ -171,6 +178,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
   display: flex;
   height: 100%;
   align-items: center;
+  white-space: nowrap;
 }
 
 /* Main Nav */
@@ -183,8 +191,9 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
   height: 100%;
   display: flex;
   align-items: stretch;
-  gap: 1.2em;
+  gap: 0.5em 1.2em;
   margin: 0;
+  flex-wrap: wrap;
 }
 
 #banner nav li a {
@@ -207,7 +216,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 #content {
   margin-top: 2em;
   margin-bottom: 2em;
-  padding-left: var(--horizontal-page-margin);
+  padding: 0 var(--horizontal-page-margin);
   box-sizing: border-box;
 }
 
@@ -222,27 +231,11 @@ side-block, side-ref {
 side-ref {
   counter-increment: side-counter;
 }
-side-ref::after {
-    content: counter(side-counter);
-    vertical-align: baseline;
-    position: relative;
-    top: -0.5em;
-    font-size: 0.8em;
-}
-
-side-ref side-content::before {
-  content: counter(side-counter);
-  vertical-align: baseline;
-  position: relative;
-  top: -0.5em;
-  margin-right: 0.5em;
-  font-size: 0.8em;
-}
 
 @media (min-width: 1000px) {
   #content {
-    --main-content-width: 55vw;
-    --sidenote-width: calc(100vw - var(--horizontal-page-margin) - var(--main-content-width));
+    --main-content-width: 65vw;
+    --sidenote-width: calc(100vw - var(--main-content-width));
     width: var(--main-content-width);
   }
 
@@ -253,8 +246,47 @@ side-ref side-content::before {
     width: calc(var(--sidenote-width) - 4rem);
     margin-bottom: 1rem;
   }
+
+  side-ref::after {
+      content: counter(side-counter);
+      vertical-align: baseline;
+      position: relative;
+      top: -0.5em;
+      font-size: 0.8em;
+  }
+
+  side-ref side-content::before {
+    content: counter(side-counter);
+    vertical-align: baseline;
+    position: relative;
+    top: -0.5em;
+    margin-right: 0.5em;
+    font-size: 0.8em;
+  }
 }
 
+@media not (min-width: 1000px) {
+  side-ref::after {
+      content: "⊕";
+      font-size: 1rem;
+      padding: 0.2rem;
+      color: #666;
+  }
+
+  side-ref side-content {
+    display: none;
+  }
+
+  side-ref:focus side-content {
+    display: block;
+    border: 1px solid black;
+    position: absolute;
+    background: white;
+    border-radius: 0.2em;
+    padding: 0.5em;
+    box-shadow: 1px 1px;
+  }
+}
 
 
 /*
