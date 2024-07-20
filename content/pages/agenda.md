@@ -2,8 +2,8 @@ Title: Agenda
 order: 3
 
 ## Toekomstige evenementen
-* Woensdagavond 11 september, Pakhuis de Zwijger (details volgen)
-* Vrijdagavond 4 oktober, Duurzaamheidscentrum Hilversum (details volgen)
+* Woensdagavond 11 september 19:30-22:00 (En), Pakhuis de Zwijger [aanmelden](https://dezwijger.nl/programma/the-big-un-climate-simulation-game)
+* Vrijdagavond 4 oktober 19:30-22:00 (Nl), Duurzaamheidscentrum Hilversum (details volgen)
 
 ![Alt Text]({static}/images/PDZ_presentation_2.jpg)
 <sub><sup>Foto: Pakhuis de Zwijger</sup></sub>
