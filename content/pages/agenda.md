@@ -1,17 +1,20 @@
 Title: Agenda
 order: 3
 
-## Toekomstige evenementen
-
 <side-block>
   <side-content>
-    ![Alt Text]({static}/images/PDZ_presentation_2.jpg)
-    Foto: Pakhuis de Zwijger
+    ![Alt Text]({static}/images/doe_mee.svg)
   </side-content>
 </side-block>
 
-* Woensdagavond 11 september 19:30-22:00 (En), Pakhuis de Zwijger [aanmelden](https://dezwijger.nl/programma/the-big-un-climate-simulation-game)
+## Toekomstige evenementen
+
+
+
+* Woensdagavond 11 september 19:30-22:00 (En), Pakhuis de Zwijger, Amsterdam ([aanmelden](https://dezwijger.nl/programma/the-big-un-climate-simulation-game))
 * Vrijdagavond 4 oktober 19:30-22:00 (Nl), Duurzaamheidscentrum Hilversum (details volgen)
+
+ ![Alt Text]({static}/images/PDZ_presentation_2.jpg)
 
 ## Eerdere evenementen
 
@@ -32,3 +35,12 @@ order: 3
 17-2-2023 En-ROADS klimaatworkshop, Energie en klimaatsymposium, NNV
 
 9-11-2022 En-ROADS climate workshop, Fugro Innovators Conference
+
+ <footer id="contentinfo" class="body">
+
+
+                        <p style="font-size:0.8em">
+                        Foto: <br>
+                        Pakhuis de Zwijger
+                        </p>
+                </footer>

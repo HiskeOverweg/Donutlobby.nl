@@ -3,8 +3,12 @@ url:
 order: 0
 save_as: index.html
 
-### Morgen begint vandaag
 
+<side-block>
+  <side-content>
+    ![bla]({static}/images/morgen_begint_vandaag_white.jpg)
+  </side-content>
+</side-block>
 
 De Donutlobby maakt zich sterk voor een toekomstbestendige planeet. Ik verbreed het draagvlak voor verduurzaming binnen jouw organisatie met de volgende activiteiten:
 
@@ -17,9 +21,15 @@ De Donutlobby maakt zich sterk voor een toekomstbestendige planeet. Ik verbreed 
 ![Alt Text]({static}/images/enroads_picture.jpg)
 
 
-
+<side-block>
+  <side-content>
+![Alt Text]({static}/images/bloemetje_cv.png)
+  </side-content>
+</side-block>
 
 ### Over mij
+
+
 
 Bewust leven, daar draait het voor mij om.
 
@@ -34,8 +44,22 @@ Een denker die doet en een doener die denkt vanuit een positieve vibe en met een
 Mijn missie: mensen laten zien hoe veel voldoening je kunt halen uit samenwerken voor een toekomstbestendige planeet.
 
 
-![Alt Text]({static}/images/bloemetje_cv.png)
+
+
 
 ### Donuts?
 
 De donut in kwestie is de [donut](https://www.kateraworth.com/doughnut/) uit De Donuteconomie van [Kate Raworth](https://www.kateraworth.com/), een economisch model waarin ecologische grenzen niet worden overschreden (de buitenrand) en tegelijkertijd iedereen op aarde in zijn basisbehoefte wordt voorzien (de binnenrand).
+
+ <footer id="contentinfo" class="body">
+
+
+                        <p style="font-size:0.8em">
+                        Picture attribution: <br>
+                         Title: Earth (blank)<br>
+                         Author: Andrew Z. Colvin<br>
+                         <a rel="nofollow" href="https://commons.wikimedia.org/wiki/File:Earth_(blank).png">original</a><br>
+                         <a rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">CC BY-SA 3.0 license</a><br>
+                         text added
+                        </p>
+                </footer>

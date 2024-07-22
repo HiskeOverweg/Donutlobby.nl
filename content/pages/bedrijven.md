@@ -14,7 +14,6 @@ Om de aarde toekomstbestendig te maken, moeten er veel dingen gebeuren. Een van 
 <side-block>
   <side-content>
     ![Alt Text]({static}/images/PDZ_presentation.jpg)
-    Foto: Pakhuis de Zwijger
   </side-content>
 </side-block>
 
@@ -27,7 +26,6 @@ Gelukkig kunnen we vandaag de dag al wel zien wat het effect is als we bepaalde 
 <side-block>
   <side-content>
     ![Alt Text]({static}/images/PDZ_discussion.jpg)
-    Foto: Pakhuis de Zwijger
   </side-content>
 </side-block>
 
@@ -39,7 +37,6 @@ Met maximaal 36 mensen nadenken hoe we de aarde leefbaar kunnen houden. De vorm 
 <side-block>
   <side-content>
     ![Alt Text]({static}/images/PDZ_writing.jpg)
-    Foto: Pakhuis de Zwijger
   </side-content>
 </side-block>
 
@@ -54,11 +51,10 @@ Om het maximale effect van de sessie te bereiken, adviseren wij om in de ochtend
 <side-block>
   <side-content>
     ![Alt Text]({static}/images/PDZ_paper.jpg)
-    Foto: Pakhuis de Zwijger
   </side-content>
 </side-block>
 
-Doelgroepen
+### Doelgroepen
 
 *	Het MKB dat draagvlak wil creëren om versneld de uitstoot te reduceren
 
@@ -69,3 +65,14 @@ Doelgroepen
 *	Onderwijsinstellingen die hun school toekomstbestendig willen maken
 
 Meer weten? Mail naar [info@donutlobby.nl](mailto:info@donutlobby.nl) voor meer informatie.
+
+
+
+ <footer id="contentinfo" class="body">
+
+
+                        <p style="font-size:0.8em">
+                        Foto's: <br>
+                        Pakhuis de Zwijger
+                        </p>
+                </footer>

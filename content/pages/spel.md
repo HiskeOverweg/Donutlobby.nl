@@ -5,8 +5,7 @@ order: 2
 
 <side-block>
     <side-content>
-        ![Alt Text]({static}/images/pdz_groep.png)
-        Deelnemers klimaatsimulatiespel pakhuis de zwijger.
+        ![Alt Text]({static}/images/pdz_groep.jpg)
     </side-content>
 </side-block>
 
@@ -18,7 +17,7 @@ order: 2
 
 Droomde je er altijd al van om de belangen van een oliemaatschappij te behartigen op een VN klimaattop? Of zou je graag eens in de huid van een klimaatactivist kruipen? Dit is je kans! Dit spel is een interactief rollenspel waarbij je inzicht krijgt in de perspectieven en belangen van machtige en mondige stakeholders in het klimaatdebat. Als boer, oliebedrijf of politicus ben je uitgenodigd op een speciale VN klimaattop om het Parijsakkoord veilig te stellen. Samen met collega’s uit jouw sector dien je oplossingen aan die vervolgens door een klimaatsimulator worden getoetst. Je hebt geen voorkennis nodig, iedereen kan meedoen.
 
-Het grote VN klimaatsimulatiespel is ontwikkeld door de denktank Climate Interactive<side-ref><side-content>[climateinteractive.org](https://climateinteractive.org)</side-content></side-ref> en MIT Sloan Sustainability initiative<side-ref><side-content>[mitsloan.mit.edu/sustainability-interactive](https://mitsloan.mit.edu/sustainability-initiative/welcome)</side-content></side-ref>.
+Het grote VN klimaatsimulatiespel is ontwikkeld door de denktank [Climate Interactive](https://climateinteractive.org) en [MIT Sloan Sustainability initiative](https://mitsloan.mit.edu/sustainability-initiative/welcome).
 
 ![Alt Text]({static}/images/logos.png)
 
