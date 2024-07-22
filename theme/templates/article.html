@@ -17,18 +17,15 @@
 {% endblock %}
 
 {% block content %}
-  <section id="content" class="body">
  <article>
+  {% include 'article_infos.html' %}
    <header>
-  <h1 class="entry-title">
-    <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
-    title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h1>
-  {% include 'twitter.html' %}
+     <h1>{{ article.title|striptags }}</h1>
+    {% include 'twitter.html' %}
    </header>
 
    <div class="entry-content">
-  {% include 'article_infos.html' %}
-  {{ article.content }}
+     {{ article.content }}
    </div><!-- /.entry-content -->
    {% if DISQUS_SITENAME and SITEURL and article.status != "draft" %}
   <div class="comments">
@@ -49,5 +46,4 @@
    {% endif %}
 
  </article>
-  </section>
 {% endblock %}

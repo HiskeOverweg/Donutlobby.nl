@@ -21,9 +21,6 @@
     <header id="banner" class="body">
       <h1><a href="{{ SITEURL }}/">De D<span style="font-weight:900;">o</span>nutlobby</a></h1>
       <nav><ul>
-        {% for title, link in MENUITEMS %}
-          <li><a href="{{ link }}">{{ title }}</a></li>
-        {% endfor %}
         {% if DISPLAY_PAGES_ON_MENU -%}
           {% for pg in pages %}
             {% if pg.save_as != "index.html" %}
@@ -31,6 +28,9 @@
             {% endif %}
           {% endfor %}
         {% endif %}
+        {% for title, link in MENUITEMS %}
+          <li><a href="{{ link }}">{{ title }}</a></li>
+        {% endfor %}
         {% if DISPLAY_CATEGORIES_ON_MENU -%}
           {% for cat, null in categories %}
             <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
@@ -38,8 +38,10 @@
         {% endif %}
       </ul></nav>
     </header><!-- /#banner -->
+    <section id="content">
     {% block content %}
     {% endblock %}
+    </section>
 
     <footer id="contentinfo" class="body">
 

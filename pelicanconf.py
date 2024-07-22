@@ -3,6 +3,11 @@ SITENAME = "De Donutlobby"
 SITEURL = ""
 THEME = "./theme"
 PATH = "content"
+PAGE_PATHS = ["pages"]
+ARTICLE_PATHS = ["articles"]
+
+MENUITEMS = [("Blog", "/category/articles.html")]
+DISPLAY_CATEGORIES_ON_MENU = False
 
 TIMEZONE = "Europe/Amsterdam"
 
@@ -19,7 +24,7 @@ AUTHOR_FEED_RSS = None
 LINKS = ()
 
 # Page order
-PAGE_ORDER_BY = 'order'
+PAGE_ORDER_BY = "order"
 
 DEFAULT_PAGINATION = False
 

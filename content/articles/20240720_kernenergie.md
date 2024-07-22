@@ -1,7 +1,5 @@
-Title: Blog
-order: 5
-
-## Kernenergie: de kern van de zaak
+Title: Kernenergie: de kern van de zaak
+Date: 2024-07-20 10:00
 
 _Een illustratie van de De Rudi & Freddie show met En-ROADS_
 
