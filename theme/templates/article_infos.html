@@ -2,7 +2,7 @@
   <side-block>
     <side-content>
       <span>
-        Published: {{ article.locale_date }}
+        Gepubliceerd: {{ article.locale_date }}
       </span>
       {% if article.modified %}
         <br />
@@ -13,7 +13,7 @@
       {% if article.authors %}
         <br />
         <span>
-          By {% for author in article.authors %}
+          Door {% for author in article.authors %}
             {{ author }}
           {% endfor %}
         </span>

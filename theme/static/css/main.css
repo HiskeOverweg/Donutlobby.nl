@@ -17,14 +17,9 @@ body {
   color: #000305;
   font-family: Montserrat, sans-serif;
   line-height: 1.4;
-  --horizontal-page-margin: 7rem;
+  --content-width: min(900px, calc(100vw - 1rem));
+  --horizontal-page-margin: calc(0.5 * (100vw - var(--content-width)));
   counter-reset: side-counter;
-}
-
-@media not (min-width: 1000px) {
-  body {
-    --horizontal-page-margin: 0.5rem;
-  }
 }
 
 /* Headings */
@@ -233,7 +228,6 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
   margin-top: 2em;
   margin-bottom: 2em;
   padding: 0 var(--horizontal-page-margin);
-  box-sizing: border-box;
 }
 
 /*
@@ -250,8 +244,8 @@ side-ref {
 
 @media (min-width: 1000px) {
   #content {
-    --main-content-width: 65vw;
-    --sidenote-width: calc(100vw - var(--main-content-width));
+    --main-content-width: calc(.60 * var(--content-width));
+    --sidenote-width: calc(var(--content-width) - var(--main-content-width));
     width: var(--main-content-width);
   }
 
