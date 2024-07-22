@@ -146,6 +146,20 @@ img.left, figure.left, div.figure.align-left {
   margin: 0 2em 2em 0;
 }
 
+sub {
+  vertical-align: baseline;
+  position: relative;
+  bottom: -0.5em;
+  font-size: 0.8em;
+}
+
+sup {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.5em;
+  font-size: 0.8em;
+}
+
 /* .rst support */
 div.figure img, figure img {  /* to fill figure exactly */
   max-width: 100%;
