@@ -77,7 +77,8 @@ ol {
 li { margin-top: 0.5em;
   margin-bottom: 1em; }
 
-.readmore { float: right }
+.readmore { margin-bottom: 2rem; display:block;}
+
 
 dl {margin: 0 0 1.5em 0;}
 dt {font-weight: bold;}
