@@ -3,7 +3,7 @@ Date: 2024-07-20 10:00
 
 _Een illustratie van de De Rudi & Freddie show met En-ROADS_
 
-Een paar maanden terug maakten Jesse Frederik en Rutger Bregman een [podcastaflevering](https://decorrespondent.nl/15275/kerncentrales-bouwen-peperdure-rechtse-identiteitspolitiek/01a1f5d6-bfa8-02c8-3fd0-d8f581734d96) over kernenergie. In deze blogpost illustreer ik een aantal concepten uit die podcast met de [En-ROADS klimaatsimulator](https://en-roads.climateinteractive.org/scenario.html?v=24.7.0), ontwikkeld door wetenschappers van [MIT](https://mitsloan.mit.edu/sustainability-initiative/welcome) en de denktank [Climate Interactive](https://www.climateinteractive.org/).
+Een paar maanden geleden maakten Jesse Frederik en Rutger Bregman een [podcastaflevering](https://decorrespondent.nl/15275/kerncentrales-bouwen-peperdure-rechtse-identiteitspolitiek/01a1f5d6-bfa8-02c8-3fd0-d8f581734d96) over kernenergie. In deze blogpost illustreer ik een aantal concepten uit die podcast met de [En-ROADS klimaatsimulator](https://en-roads.climateinteractive.org/scenario.html?v=24.7.0), ontwikkeld door wetenschappers van [MIT](https://mitsloan.mit.edu/sustainability-initiative/welcome) en de denktank [Climate Interactive](https://www.climateinteractive.org/).
 
 
 #### Kernenergie is duur
@@ -41,7 +41,7 @@ Naarmate je meer van iets maakt, wordt het ook goedkoper. Als je twee keer zovee
 
 
 #### Het totaalplaatje in En-ROADS
-In de huidige wereldwijde energievoorziening speelt nucleaire energie een vrij kleine rol (het lichtblauwe stukje bovenaan de linker grafiek). Zelfs met de bovengenoemde subsidie van 0,07 $/kWh, zal dat aandeel niet heel veel groter worden (zie rechtergrafiek). Dit komt omdat het lang duurt om een kerncentrale te plannen, te bouwen en te testen. Daarom zie je pas een duidelijk verschil tussen het ongesubsidieerde scenario en het gesubsidieerde scenario vanaf 2040.
+In de huidige wereldwijde energievoorziening speelt nucleaire energie een vrij kleine rol (het miniscule lichtblauwe stukje bovenaan de linker grafiek). Zelfs met de bovengenoemde subsidie van 0,07 $/kWh, zal dat aandeel niet heel veel groter worden (zie rechtergrafiek). Dit komt omdat het lang duurt om een kerncentrale te plannen, te bouwen en te testen. Daarom zie je pas een duidelijk verschil tussen het ongesubsidieerde scenario en het gesubsidieerde scenario vanaf 2040.
 
 ![Alt Text]({static}/images/nuclear/4_energy_sources_diff.png)
 
@@ -62,8 +62,3 @@ Om nog eventjes "The Nuclear Bro" uit te hangen, zoals Rutger Bregman het formul
 
 #### Wat moeten we dan wel doen?
 Zijn er andere impactvollere klimaatoplossingen? Jazeker! Meld je aan voor een gratis [webinar](https://www.climateinteractive.org/get-involved/webinars/) van Climate Interactive of volg een workshop bij [De Donutlobby](https://www.donutlobby.nl/) als je meer wilt weten.
-
-
-2021-02-28 [Verkiezingsblogposttrilogie](https://his.ke/posts/verkiezingsblogposttrilogie/)
-
-2021-01-29 [Rabobank and Microsoft - carbon banking](https://his.ke/posts/rabobank-en-microsoft-carbon-banking/)
