@@ -30,7 +30,7 @@ Een van de eerste bezwaren tegen het bouwen van een kerncentrale in Nederland di
 
 We hebben flink geïnvesteerd in wind- en zonne-energie de afgelopen decennia, dus heeft kernenergie niet ook gewoon een steuntje in de rug van de overheid nodig? Zelfs met een wereldwijde subsidie van 0,07 $/kWh (de bovenlimiet van wat de makers van En-ROADS waarschijnlijk achten), is wind- en zonne-energie nog steeds goedkoper, en dat zonder subsidie.
 
-Waarom wakkert de subsidie niet genoeg innovatie aan om kernenergie veel goedkoper te maken? Dat heeft het leereffect te maken.
+Waarom wakkert de subsidie niet genoeg innovatie aan om kernenergie veel goedkoper te maken? Dat heeft met het leereffect te maken.
 
 #### Het leereffect
 
