@@ -56,9 +56,11 @@ Uiteindelijk voorkomt de bovengenoemde subsidie slechts een beperkte uitstoot va
 #### En thoriumreactoren dan? Of kernfusie?
 
 
-Om nog eventjes "The Nuclear Bro" uit te hangen, zoals Rutger Bregman het formuleerde: zijn er geen andere veelbelovende opties zoals kernsplijting gebaseerd op thorium en kernfusie? Deze technieken werken nog niet op commerciële schaal, en ook als we aannemen (hoogst speculatief) dat dat binnenkort gebeurt, gaat er veel tijd in de opschaling zitten. Daarom kan ook hiermee hooguit 0,1°C opwarming worden voorkomen.
+Om nog eventjes "The Nuclear Bro" uit te hangen, zoals Rutger Bregman het formuleerde: zijn er geen andere veelbelovende opties zoals kernsplijting gebaseerd op thorium en kernfusie? Deze technieken werken nog niet op commerciële schaal, en ook als we aannemen (hoogst speculatief) dat dat binnenkort gebeurt, gaat er veel tijd in de opschaling zitten. Zelfs in het hoogst optimistische scenario waarin we ervan uit gaan dat deze nieuwe energiebron spotgoedkoop wordt, kan ook hiermee hooguit 0,1°C opwarming worden voorkomen.
 
 ![Alt Text]({static}/images/nuclear/6_new_zero.png)
+
+Als je dit scenario met de bovenstaande scenario's vergelijkt, zie je dat er minder hernieuwbare energie wordt gebruikt. Zonder verdere maatregelen, is hernieuwbare energie in competitie met onze hypothetische goedkope energiebron, wat ertoe leidt dat er minder van wordt gebruikt. Dit is het zogenaamde "crowding out effect".
 
 #### Wat moeten we dan wel doen?
 Zijn er andere impactvollere klimaatoplossingen? Jazeker! Meld je aan voor een gratis [webinar](https://www.climateinteractive.org/get-involved/webinars/) van Climate Interactive of volg een workshop bij [De Donutlobby](https://www.donutlobby.nl/) als je meer wilt weten.
