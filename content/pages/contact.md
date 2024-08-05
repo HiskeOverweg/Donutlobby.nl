@@ -11,13 +11,12 @@ KvK 94262314
 
 BTW NL005075352B78
 
-
 # Partners
 
-![Alt Text]({static}/images/logos.png)
+![Alt Text]({static}/images/ci.png)
 
-De En-ROADS simulator is ontwikkeld door
-[Climate Interactive](climateinteractive.org) en [MIT Sloan Sustainability initiative](https://mitsloan.mit.edu/sustainability-initiative/welcome).
+Het grote VN klimaatsimulatiespel is ontwikkeld door de denktank [Climate Interactive](https://climateinteractive.org) en [MIT Sloan Sustainability initiative](https://mitsloan.mit.edu/sustainability-initiative/welcome).
+![Alt Text]({static}/images/mit.png)
 
 ![Alt Text]({static}/images/kin.svg)
 
