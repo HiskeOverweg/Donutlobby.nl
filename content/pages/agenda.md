@@ -10,7 +10,9 @@ order: 3
 ## Toekomstige evenementen
 
 * Donderdagavond 12 september 19:30-22:00 (En), Pakhuis de Zwijger, Amsterdam ([aanmelden](https://dezwijger.nl/programma/the-big-un-climate-simulation-game))
-* Vrijdagavond 4 oktober 19:30-22:00 (Nl), Duurzaamheidscentrum Hilversum (details volgen)
+* Woensdagavond 2 oktober 17:30 - 20:30, (En) Techlabs Rotterdam ([details](https://www.linkedin.com/events/workshop-en-roadsclimateactions7233132624079179777/about/) [aanmelden](
+https://lu.ma/iscjltgo ))
+* Vrijdagavond 4 oktober 19:30-22:00 (Nl), Duurzaamheidscentrum Hilversum ([aanmelden](https://hilversum100.nl/event/het-klimaatspel/))
 
  ![Alt Text]({static}/images/PDZ_presentation_2.jpg)
 
