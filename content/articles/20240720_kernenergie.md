@@ -6,6 +6,7 @@ _Een illustratie van de De Rudi & Freddie show met En-ROADS_
 Een paar maanden geleden maakten Jesse Frederik en Rutger Bregman een [podcastaflevering](https://decorrespondent.nl/15275/kerncentrales-bouwen-peperdure-rechtse-identiteitspolitiek/01a1f5d6-bfa8-02c8-3fd0-d8f581734d96) over kernenergie. In deze blogpost illustreer ik een aantal concepten uit die podcast met de [En-ROADS klimaatsimulator](https://en-roads.climateinteractive.org/scenario.html?v=24.7.0), ontwikkeld door wetenschappers van [MIT](https://mitsloan.mit.edu/sustainability-initiative/welcome) en de denktank [Climate Interactive](https://www.climateinteractive.org/).
 
 
+
 #### Kernenergie is duur
 
 <side-block>
@@ -64,3 +65,6 @@ Als je dit scenario met de bovenstaande scenario's vergelijkt, zie je dat er min
 
 #### Wat moeten we dan wel doen?
 Zijn er andere impactvollere klimaatoplossingen? Jazeker! Meld je aan voor een gratis [webinar](https://www.climateinteractive.org/get-involved/webinars/) van Climate Interactive of volg een workshop bij [De Donutlobby](https://www.donutlobby.nl/) als je meer wilt weten.
+
+#### Addendum: veiligheid
+In de Rudi en Freddie show kwam veiligheid van kernenergie ook ter sprake. Volgens Jesse Frederik zijn de modernste kerncentrales "eerder te veilig dan te onveilig". Hierbij wordt wel de uraniumwinning voor de centrale buiten beschouwing gelaten. [Follow the Money](https://www.ftm.nl/artikelen/uraniummijn-in-niger?share=rCp6XQxBZf9IZNJ%2FYrml14oMQrkIQgvwO0%2FULCOdbhCr1iBoOkTa%2FJezJVy6jg0%3D) schetst op dit punt een grimmig beeld: de uraniumwinning die in Niger plaatsvindt voor kerncentrales in Frankrijk leidt tot veel radioactief afval. De gevolgen: een zieke bevolking en grondwatervervuiling die nog eeuwen consequenties zal hebben. Niger is niet het enige land waar uraniumwinning de omgeving vervuilt: dit was ook net geval in Namibië, Australië en Canada. Nog afgezien van de geschaadde gezondheid van de bevolking, lopen de opruimkosten van het afval in de miljarden. Bij de winning van uranium moet er qua veiligheid dus nog een hoop verbeterd worden, wat de kosten van kernenergie nog meer zal opdrijven.
