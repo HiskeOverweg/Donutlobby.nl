@@ -5,6 +5,10 @@ order: 4
 
 [info@donutlobby.nl](mailto:info@donutlobby.nl)
 
+[LinkedIn](https://www.linkedin.com/company/104477035/)
+
+[Instagram](https://www.instagram.com/donutlobby/)
+
 De Donutlobby
 
 KvK 94262314
