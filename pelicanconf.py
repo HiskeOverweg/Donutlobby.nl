@@ -13,6 +13,10 @@ TIMEZONE = "Europe/Amsterdam"
 
 DEFAULT_LANG = "nl"
 
+PLUGINS = ['i18n_subsites']
+I18N_SUBSITES = {'nl':{}, 'en':{}}
+
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
