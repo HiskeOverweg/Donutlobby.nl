@@ -1,10 +1,12 @@
 Title: Ode aan mijn douchekop
-Date: 2024-09-21 10:00
+Date: 2024-09-23 10:00
+
+![]({static}/images/bangladesh/douchekop.jpeg)
 
 
-Ik ben groot fan van [deze waterbesparende douchekop](https://www.groene-energiewinkel.nl/62010020--douchekop-waterbesp--best-saver-3-8l-min-wit.html?_globalsearch=douchekop). De grootste winst die je behaalt met een dergelijke douchekop is niet de waterbesparing, maar vooral de energiebesparing omdat je minder water hoeft op te warmen voor je douchebeurt.
+Ik ben groot fan van mijn [waterbesparende douchekop](https://www.groene-energiewinkel.nl/62010020--douchekop-waterbesp--best-saver-3-8l-min-wit.html?_globalsearch=douchekop). De grootste winst die je behaalt met een dergelijke douchekop is niet de waterbesparing, maar vooral de energiebesparing omdat je minder water hoeft op te warmen voor je douchebeurt.
 
-"Ja, dan komt er zeker alleen een miezerig straaltje uit?" hoor ik je al denken. Niets is minder waar: de douchekop zorgt voor extra turbulentie waardoor de waterstraal net zo krachtig voelt. Toen ik in Parijs in een gebouw woonde waar de waterdruk erg laag was, was dit de perfecte oplossing. Toen ik tijdens de zomervakantie onder een tegenvallende douchestraal stond, kwam de gedachte in me op om de douchekop voortaan maar mee te nemen op vakantie. Onmisbaar dus.
+"Ja, dan komt er zeker alleen een miezerig straaltje uit?" hoor ik je al denken. Niets is minder waar: de douchekop zorgt voor extra turbulentie waardoor de waterstraal net zo krachtig voelt. Toen ik in Parijs in een gebouw woonde waar de waterdruk erg laag was, was dit de perfecte oplossing. En toen ik dit jaar tijdens de zomervakantie onder een tegenvallende douchestraal stond, kwam de gedachte in me op om de douchekop voortaan maar mee te nemen op vakantie. Onmisbaar dus.
 
 Waterschaarste speelt op dit moment in Nederland een beperkte rol tijdens droge zomers.
 <side-block>
@@ -24,7 +26,7 @@ In de Khulna regio in het zuidwesten van Bangladsh zorgt zeespiegelstijging voor
      </side-content>
 </side-block>
 
-Een deel van de bevolking heeft alleen toegang tot brak water. Het aantal vrouwen wat een zwangerschapsvergiftiging krijgt, is hierdoor aanzienlijk verhoogd. Zwangerschapsvergiftiging kan leiden tot ernstige hoofdpijn, orgaanschade of zelfs overlijden. Daarnaast is het aantal mensen met chronisch nierfalen twee keer zo hoog als elders. Veel families sluiten leningen af om dialyses en medicijnen te kunnen betalen.
+Een deel van de bevolking heeft hierdoor alleen toegang tot brak water. Het aantal vrouwen wat een zwangerschapsvergiftiging krijgt, is aanzienlijk verhoogd. Zwangerschapsvergiftiging kan leiden tot ernstige hoofdpijn, orgaanschade of zelfs overlijden. Daarnaast is het aantal mensen met chronisch nierfalen twee keer zo hoog als elders. Veel families sluiten leningen af om dialyses en medicijnen te kunnen betalen.
 
 NGO's en de regering werken aan meer opslagcapaciteit voor regenwater, installatie van grondwaterfilters en betere informatievoorziening over de gevolgen van zoutwaterconsumptie.
 
@@ -44,7 +46,7 @@ Tegelijkertijd verscheen dit jaar een rapport van het International Centre for C
     </side-content>
 </side-block>
 
-In de [En-ROADS klimaatsimulator](https://en-roads.climateinteractive.org/scenario.html?v=24.9.0) kun je zien welk deel van Bangladesh in 2100 onder zeespiegel ligt in het scenario waarin we qua uitstoot van broeikasgassen op dezelfde weg doorgaan (het blauwe gedeelte op de onderstaande kaart).
+In de [En-ROADS klimaatsimulator](https://en-roads.climateinteractive.org/scenario.html?v=24.9.0) kun je zien welk deel van Bangladesh in 2100 onder de zeespiegel ligt in het scenario waarin we qua uitstoot van broeikasgassen op dezelfde weg doorgaan (het blauwe gedeelte op de onderstaande kaart).
 
 ![]({static}/images/bangladesh/risk.png)
 
@@ -77,6 +79,6 @@ BRAC is dusdanig succesvol in de projecten die ze opzetten, dat ze die ook buite
 <side-block>
     <side-content>
     ![]({static}/images/bangladesh/sdgs.png)
-In deze blogpost komen de sustainable development goals goede gezondheid en welzijn, schoon water en sanitair en klimaatactie ter sprake.
+Een blogpost over de sustainable development goals goede gezondheid en welzijn, schoon water en sanitair en klimaatactie ter sprake.
      </side-content>
 </side-block>
