@@ -1,5 +1,7 @@
 Title: Het ei van Columbus
-Date: 2024-09-20 10:00
+Date: 2024-09-24 10:00
+
+![]({static}/images/proteins/ei.jpeg)
 
 Meer plantaardig eiwit consumeren is een win-win-win-win situatie: goed voor je gezondheid, het klimaat, de voedselzekerheid en de biodiversiteit.
 
@@ -11,7 +13,7 @@ Een dieet waarin we meer plantaardige en minder dierlijke eiwitten eten, heeft o
 
 * een kleinere vraag naar landbouwgrond (minder dierenvoeding), betekent minder ontbossing. Bij ontbossing leidt het verbranden of verrotten van biomassa tot CO<sub>2</sub> uitstoot.
 
-* minder ontbossing betekent ook dat er meer bos beschikbaar is om CO<sub>2</sub> uit de atmosfeer te halen.
+* minder ontbossing betekent ook dat er meer bos beschikbaar is om CO<sub>2</sub> uit de atmosfeer op te nemen.
 
 * vee stoot methaan uit door te boeren en poepen. Methaan is een sterk broeikasgas, wat over een periode van 100 jaar ongeveer 30 keer zo veel warmte aan de atmosfeer toevoegt als CO<sub>2</sub>. Door minder vee te houden, gaat de methaanuitstoot dus omlaag.
 
@@ -39,7 +41,7 @@ De verminderde uitstoot van methaan en stikstofoxiden is te zien in de bovenstaa
 </side-block>
 Dan is er nog de gezondheidswinst. Volgens het meest recente rapport van The Lancet op het gebied van gezondheid en klimaatverandering, zijn er in 2020 wereldwijd 1,9 miljoen mensen overleden aan de gevolgen van een dieet met te veel zuivel en vlees (dat is ongeveer 3% van het totaal aantal overledenen). Deze mensen overleden bijvoorbeeld aan darmkanker, cardiovasculaire ziekten of diabetes type 2 (en ja, dan worden andere oorzaken van deze ziektes zorgvuldig uitgesloten om tot deze getallen te komen). Minder vlees en zuivel is dus goed voor de planeet én voor jezelf.
 
-En dan hebben we het nog niet over rest van de wereldbevolking gehad. Er sterven jaarlijks ongeveer 9 miljoen mensen aan ondervoeding. Dat aantal kan drastisch omlaag gaan als de grond waarop nu veevoer wordt verbouwwd, wordt ingezet om gewassen voor menselijke consumptie te verbouwen.
+En dan hebben we het nog niet over rest van de wereldbevolking gehad. Er sterven jaarlijks ongeveer 9 miljoen mensen aan ondervoeding. Dat aantal kan drastisch omlaag gaan als de grond waarop nu veevoer wordt verbouwd, wordt ingezet om gewassen voor menselijke consumptie te verbouwen.
 
 Wat dacht je van de diersoorten die door ontbossing worden bedreigd? Het aantal diersoorten wat de helft van hun habitat verliest, vermindert met een paar procent als we minder minder dierlijk voedsel eten (in het blauw) ten opzichte van de status quo (in het zwart).
 
