@@ -26,6 +26,8 @@ How much environmental benifit does abolishing fossil fuel subsidies bring? What
 For those interested, we can discuss options to learn how to facilitate this workshop yourself at the end of the session.
 
 #### Registration
+This event is free, but we'd like to know the number of participants.
+
 Please send an e-mail to _hello [at] donutlobby.nl_ to sign up.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FlY5dj6kLl0?si=rspjyeBYOYJRo1LZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
