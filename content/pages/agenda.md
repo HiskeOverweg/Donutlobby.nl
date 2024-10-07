@@ -8,7 +8,6 @@ order: 3
 </side-block>
 
 ## Toekomstige evenementen
-)
 
 * Donderdag 10 oktober 12:30-13:30 En-ROADS klimaatworkshop - Inspirational talk, Hogeschool Utrecht ([aanmelden](https://www.smartsustainablecities.nl/nieuws/agenda+coe/2893482.aspx?t=Inspirational-Talk-over-de-En-ROADS-Klimaatworkshop#tab=acceptedTab))
 
