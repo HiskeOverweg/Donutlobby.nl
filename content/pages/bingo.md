@@ -21,6 +21,8 @@ Bingo op de bovenstaande kaart? Dan is hier een versie met acties voor de komend
 #### Podcasts
 [ESG Even Samen Gevat](https://podcastluisteren.nl/pod/ESG-Even-Samen-Gevat)
 
+[Not Built For This](https://99percentinvisible.org/nbft/)
+
 [Pakhuis de Zwijger](https://dezwijger.nl/podcasts)
 
 [MonkeyTalk](https://www.thezooooo.com/about-the-zooooo/monkeytalk/)
