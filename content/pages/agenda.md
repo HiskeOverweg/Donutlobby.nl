@@ -8,16 +8,21 @@ order: 3
 </side-block>
 
 ## Toekomstige evenementen
+)
 
-* Vrijdagavond 4 oktober 19:30-22:00 (Nl), Duurzaamheidscentrum Hilversum ([aanmelden](https://hilversum100.nl/event/het-klimaatspel/))
+* Donderdag 10 oktober 12:30-13:30 En-ROADS klimaatworkshop - Inspirational talk, Hogeschool Utrecht ([aanmelden](https://www.smartsustainablecities.nl/nieuws/agenda+coe/2893482.aspx?t=Inspirational-Talk-over-de-En-ROADS-Klimaatworkshop#tab=acceptedTab))
 
-* Donderdag 10 oktober 12:30-13:30 Inspirational talk, Hogeschool Utrecht ([aanmelden](https://www.smartsustainablecities.nl/nieuws/agenda+coe/2893482.aspx?t=Inspirational-Talk-over-de-En-ROADS-Klimaatworkshop#tab=acceptedTab))
+* Woensdag 13 november 12:00-13:00 En-ROADS klimaatworkshop, online ([aanmelden](https://lu.ma/kiw75bhi))
 
  ![Alt Text]({static}/images/PDZ_presentation_2.jpg)
 
 ## Eerdere evenementen
 
+4-10-2024 Climate Action Simulation, Duurzaamheidscentrum Hilversum
+
 2-10-2024 Climate Action Simulation, Techlabs Rotterdam
+
+25-9-2024 Demo, SDG Action Day, Utrecht
 
 12-9-2024 Climate Action Simulation, Pakhuis De Zwijger
 
