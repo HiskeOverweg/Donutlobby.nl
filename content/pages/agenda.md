@@ -9,13 +9,13 @@ order: 3
 
 ## Toekomstige evenementen
 
-* Donderdag 10 oktober 12:30-13:30 En-ROADS klimaatworkshop - Inspirational talk, Hogeschool Utrecht ([aanmelden](https://www.smartsustainablecities.nl/nieuws/agenda+coe/2893482.aspx?t=Inspirational-Talk-over-de-En-ROADS-Klimaatworkshop#tab=acceptedTab))
-
 * Woensdag 13 november 12:00-13:00 En-ROADS klimaatworkshop, online ([aanmelden](https://lu.ma/kiw75bhi))
 
  ![Alt Text]({static}/images/PDZ_presentation_2.jpg)
 
 ## Eerdere evenementen
+
+10-10-2024 En-ROADS klimaatworkshop - Inspirational talk, Hogeschool Utrecht
 
 4-10-2024 Climate Action Simulation, Duurzaamheidscentrum Hilversum
 
