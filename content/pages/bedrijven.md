@@ -1,4 +1,5 @@
 Title: Voor bedrijven
+lang: nl
 order: 1
 
 <side-block>

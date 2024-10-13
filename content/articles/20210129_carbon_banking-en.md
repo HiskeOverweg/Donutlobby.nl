@@ -2,8 +2,6 @@ Title: Rabobank and Microsoft - carbon banking plans
 Date: 2021-01-29
 lang: en
 
-You can also read this post [in Dutch]({filename}/articles/rabobank-en-microsoft-carbon-banking.md)
-
 Yesterday Rabobank announced a [carbon banking plan](https://www.rabobank.com/en/press/search/2021/20210129-rabobank-to-announce-initiative-to-tackle-global-co2-challenge-while-enhancing-farmers-businesses.html?utm_medium=RSS) in collaboration with Microsoft. The figure below summarizes their ambitions: they aim to plant trees on a land area of 15 million ha in order to compensate for 150 Mton of CO2 emissions in 2025.
 
 ![]({static}/images/rabobank-and-microsoft-carbon-banking-plans/1.png)

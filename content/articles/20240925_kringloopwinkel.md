@@ -1,4 +1,5 @@
 Title: Schatzoeken in de kringloopwinkel
+lang: nl
 Date: 2024-09-25 10:00
 
 ![]({static}/images/kringloop/krukje.png)

@@ -1,4 +1,5 @@
 Title: De Donutlobby
+lang: nl
 url:
 order: 0
 save_as: index.html

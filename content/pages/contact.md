@@ -1,4 +1,5 @@
 Title: Contact
+lang: nl
 order: 4
 
 # Contactgegevens

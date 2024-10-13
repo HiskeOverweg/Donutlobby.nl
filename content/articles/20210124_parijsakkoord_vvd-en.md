@@ -2,7 +2,7 @@ Title: Climate policy of the Dutch prime minister's party (VVD)
 lang: en
 Date: 2021-01-25
 
-You can also read this post [in Dutch]({filename}/articles/halen-we-het-parijsakkoord-met-het-vvd-programma.md)
+You can also read this post [in Dutch]({filename}/articles/20210124_parijsakkoord_vvd.md)
 
 ##### The experiment
 
@@ -147,7 +147,7 @@ Innovations in agriculture (which could also be meat substitutes or in vitro mea
 I conclude that the VVD policy would lead to a temperature increase of 2.2°C (please mind the [disclaimer]("#h5")!). This would have disastrous effects[^8], but I see some reasons for cautious optimism:
 
 - The VVD usually rules the country together with more progressive parties.
-- This is a _concept_ electoral programme, so there is room for improvement (I will write about it soon in [a new blogpost]({filename}/articles/dutch-climate-policy-suggestions-for-improvement.md))
+- This is a _concept_ electoral programme, so there is room for improvement (I will write about it soon in [a new blogpost]({filename}/articles/20210228_verbetering-en.md))
 - If we show people what is necessary in terms of climate action, we can create societal acceptance for a more progressive climate policy (for example using the (free!) [En-ROADS climate workshop](https://www.climateinteractive.org/tools/en-roads/the-en-roads-climate-workshop/))
 
 ##### Feedback

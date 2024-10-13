@@ -1,4 +1,5 @@
 Title: Wiens woud?
+lang: nl
 Date: 2024-07-18 10:00
 
 In 2021 schreef ik een [blogpost]({filename}/articles/20210129_carbon_banking.md) over de carbon banking plannen van Microsoft en Rabobank. Het doel van dit project was om bomen te planten op een gebied van 15 miljoen hectare en daarmee in 2025 de uitstoot van 150 Mton CO<sub>2</sub> te compenseren.

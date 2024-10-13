@@ -1,4 +1,5 @@
 Title:Bingo
+lang: nl
 Status:hidden
 
 ## Klimaatactie als individu

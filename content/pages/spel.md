@@ -1,4 +1,5 @@
 Title: Educatie
+lang: nl
 order: 2
 
 ## Het grote VN klimaatsimulatiespel

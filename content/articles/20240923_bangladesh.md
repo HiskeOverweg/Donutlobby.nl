@@ -1,4 +1,5 @@
 Title: Ode aan mijn douchekop
+lang: nl
 Date: 2024-09-23 10:00
 
 ![]({static}/images/bangladesh/douchekop.jpeg)

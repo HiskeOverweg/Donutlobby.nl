@@ -1,4 +1,5 @@
 Title: Rabobank en Microsoft - Carbon banking
+lang: nl
 Date: 2021-01-29 10:00
 
 Eergisteren verscheen er in het NRC [een artikel](https://www.nrc.nl/nieuws/2021/01/28/elke-bank-moet-een-carbon-bank-worden-en-rabo-wil-de-eerste-zijn-a4029689) over de "carbon banking" plannen van Rabobank en Microsoft. De volgende figuur vat de plannen samen: het doel is om bomen te planten op een gebied van 15 miljoen hectare en daarmee in 2025 de uitstoot van 150 Mton CO<sub>2</sub> (volgens het artikel gelijk aan 0.5% van de jaarlijkse wereldwijde uitstoot) te compenseren.

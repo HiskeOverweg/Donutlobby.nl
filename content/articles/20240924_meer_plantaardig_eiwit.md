@@ -1,4 +1,5 @@
 Title: Het ei van Columbus
+lang: nl
 Date: 2024-09-24 10:00
 
 ![]({static}/images/proteins/ei.jpeg)
