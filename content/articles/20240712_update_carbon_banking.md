@@ -1,4 +1,5 @@
 Title: Wiens woud?
+slug: wiens-woud
 lang: nl
 Date: 2024-07-18 10:00
 

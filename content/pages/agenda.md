@@ -1,4 +1,5 @@
 Title: Agenda
+slug: agenda
 lang: nl
 order: 3
 

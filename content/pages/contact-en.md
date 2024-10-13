@@ -1,4 +1,5 @@
 Title: Contact
+slug: contact
 lang: en
 order: 4
 

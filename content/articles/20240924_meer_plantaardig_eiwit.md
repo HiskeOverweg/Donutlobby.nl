@@ -1,4 +1,5 @@
 Title: Het ei van Columbus
+slug: het-ei-van-columbus
 lang: nl
 Date: 2024-09-24 10:00
 

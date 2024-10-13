@@ -1,4 +1,5 @@
 Title: Contact
+slug: contact
 lang: nl
 order: 4
 

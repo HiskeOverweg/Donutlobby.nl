@@ -1,4 +1,5 @@
 Title: Kernenergie: de kern van de zaak
+slug: kernenergie-de-kern-van-de-zaak
 lang: nl
 Date: 2024-07-20 10:00
 

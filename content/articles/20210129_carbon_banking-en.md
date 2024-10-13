@@ -1,4 +1,5 @@
 Title: Rabobank and Microsoft - carbon banking plans
+slug: rabobank-en-microsoft-carbon-banking
 Date: 2021-01-29
 lang: en
 

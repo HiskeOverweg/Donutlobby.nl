@@ -1,4 +1,5 @@
 Title: Dutch climate policy and the importance of systems thinking
+slug: het-vvd-klimaatbeleid-en-het-belang-van-systeemdenken
 Date: 2021-02-22
 lang: en
 

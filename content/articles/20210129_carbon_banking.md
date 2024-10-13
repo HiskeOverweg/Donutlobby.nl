@@ -1,4 +1,5 @@
 Title: Rabobank en Microsoft - Carbon banking
+slug: rabobank-en-microsoft-carbon-banking
 lang: nl
 Date: 2021-01-29 10:00
 

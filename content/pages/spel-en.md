@@ -1,4 +1,5 @@
-Title: Educatie
+Title: Education
+slug: educatie
 lang: en
 order: 2
 

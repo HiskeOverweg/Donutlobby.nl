@@ -1,4 +1,5 @@
 Title: Agenda
+slug: agenda
 lang: en
 order: 3
 

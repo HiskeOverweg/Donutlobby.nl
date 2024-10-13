@@ -1,4 +1,5 @@
 Title: Halen we het Parijsakkoord met het VVD programma?
+slug: halen-we-het-parijsakkoord-met-het-vvd-programma
 lang: nl
 Date: 2021-01-24 10:00
 

@@ -1,4 +1,5 @@
-Title: Voor bedrijven
+Title: For companies
+slug: voor-bedrijven
 lang: en
 order: 1
 

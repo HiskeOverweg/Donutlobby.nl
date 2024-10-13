@@ -1,4 +1,5 @@
 Title: Climate policy of the Dutch prime minister's party (VVD)
+slug: halen-we-het-parijsakkoord-met-het-vvd-programma
 lang: en
 Date: 2021-01-25
 

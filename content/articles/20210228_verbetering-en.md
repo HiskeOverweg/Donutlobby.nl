@@ -1,4 +1,5 @@
-Title: Het VVD klimaatbeleid - suggesties voor verbetering
+Title: VVD climate policy - suggestions for improvement
+slug: het-vvd-klimaatbeleid-suggesties-voor-verbetering
 Date: 2021-02-28
 lang: en
 

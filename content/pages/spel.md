@@ -1,4 +1,5 @@
 Title: Educatie
+slug: educatie
 lang: nl
 order: 2
 

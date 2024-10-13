@@ -1,4 +1,5 @@
 Title: Voor bedrijven
+slug: voor-bedrijven
 lang: nl
 order: 1
 

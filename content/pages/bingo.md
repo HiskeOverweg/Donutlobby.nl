@@ -1,4 +1,5 @@
 Title:Bingo
+slug: bingo
 lang: nl
 Status:hidden
 

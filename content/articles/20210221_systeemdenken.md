@@ -1,4 +1,5 @@
 Title: Het VVD klimaatbeleid en het belang van systeemdenken
+slug: het-vvd-klimaatbeleid-en-het-belang-van-systeemdenken
 lang: nl
 Date: 2021-02-21 10:00
 
