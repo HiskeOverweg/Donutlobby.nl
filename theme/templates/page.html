@@ -1,8 +1,18 @@
 {% extends "base.html" %}
 {% block html_lang %}{{ page.lang }}{% endblock %}
 {% block title %}{{ page.title|striptags }}{% endblock %}
-{% block translation %}{{ page.url }}{% endblock %}
-{% block translation2 %}{{ page.url }}{% endblock %}
+
+{% block translation %}
+{% if page.translations %}
+{{ page.url }}
+{% endif %}
+{% endblock %}
+{% block translation2 %}
+{% if page.translations %}
+{{ page.url }}
+{% endif %}
+{% endblock %}
+
 
 {% block content %}
   {{ page.content }}
