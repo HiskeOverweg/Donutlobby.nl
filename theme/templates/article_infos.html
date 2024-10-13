@@ -2,18 +2,31 @@
   <side-block>
     <side-content>
       <span>
-        Gepubliceerd: {{ article.locale_date }}
+        {% if DEFAULT_LANG == 'nl' %}
+          Gepubliceerd: {{ article.locale_date }}
+        {% else %}
+          Published: {{ article.locale_date }}
+        {% endif %}
       </span>
       {% if article.modified %}
         <br />
         <span>
-          Updated: {{ article.locale_modified }}
+          {% if DEFAULT_LANG == 'nl' %}
+            Gewijzigd: {{ article.locale_modified }}
+          {% else %}
+            Updated: {{ article.locale_modified }}
+          {% endif %}
         </span>
       {% endif %}
       {% if article.authors %}
         <br />
         <span>
-          Door {% for author in article.authors %}
+          {% if DEFAULT_LANG == 'nl' %}
+            Door
+          {% else %}
+            By
+          {% endif %}
+          {% for author in article.authors %}
             {{ author }}
           {% endfor %}
         </span>

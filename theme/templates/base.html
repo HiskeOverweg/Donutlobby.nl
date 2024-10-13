@@ -34,14 +34,16 @@
             {% endif %}
           {% endfor %}
         {% endif %}
+        {% for lang, lang_base_url in lang_siteurls.items() %}
+          {% if lang == DEFAULT_LANG %}
+            <li{% if category == "articles" %} class="active"{% endif %}>
+              <a href="{{ lang_base_url }}/category/articles">Blog</a>
+            </li>
+          {% endif %}
+        {% endfor %}
         {% for title, link in MENUITEMS %}
           <li><a href="{{ link }}">{{ title }}</a></li>
         {% endfor %}
-        {% if DISPLAY_CATEGORIES_ON_MENU -%}
-          {% for cat, null in categories %}
-            <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
-          {% endfor %}
-        {% endif %}
         {% if lang_siteurls %}
           {% for lang, lang_base_url in lang_siteurls.items() %}
             {% if lang != DEFAULT_LANG %}

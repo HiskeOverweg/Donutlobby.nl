@@ -6,7 +6,6 @@ PATH = "content"
 PAGE_PATHS = ["pages"]
 ARTICLE_PATHS = ["articles"]
 
-MENUITEMS = [("Blog", "/category/articles.html")]
 DISPLAY_CATEGORIES_ON_MENU = False
 
 TIMEZONE = "Europe/Amsterdam"

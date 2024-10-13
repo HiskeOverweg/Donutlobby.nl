@@ -14,7 +14,13 @@
 
       <div class="entry-content">
         {{ article.summary }}
-        <a class="readmore" href="{{ SITEURL }}/{{ article.url }}">verder lezen</a>
+        <a class="readmore" href="{{ SITEURL }}/{{ article.url }}">
+          {% if DEFAULT_LANG == 'nl' %}
+            verder lezen
+          {% else %}
+            continue reading
+          {% endif %}
+        </a>
         {% include 'comments.html' %}
       </div>
     </article>

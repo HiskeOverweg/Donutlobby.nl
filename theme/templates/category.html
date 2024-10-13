@@ -1,2 +1,9 @@
 {% extends "index.html" %}
 {% block title %}{{ SITENAME|striptags }} - {{ category }}{% endblock %}
+
+{% block translation %}
+{{ category.url }}
+{% endblock %}
+{% block translation2 %}
+{{ category.url }}
+{% endblock %}
