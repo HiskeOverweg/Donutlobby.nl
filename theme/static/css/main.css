@@ -222,6 +222,10 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
   text-underline-offset: 8px;
 }
 
+#banner nav li a.lang-switch {
+  text-transform: uppercase;
+}
+
 /*
 	Body
 *****************/

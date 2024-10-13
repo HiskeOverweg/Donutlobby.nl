@@ -1,16 +1,9 @@
 {% extends "base.html" %}
 {% block html_lang %}{{ page.lang }}{% endblock %}
 {% block title %}{{ page.title|striptags }}{% endblock %}
-
-{% block extra_head %}
-  {% import 'translations.html' as translations with context %}
-  {% if translations.entry_hreflang(page) %}
-    {{ translations.entry_hreflang(page) }}
-  {% endif %}
-{% endblock %}
+{% block translation %}{{ page.url }}{% endblock %}
+{% block translation2 %}{{ page.url }}{% endblock %}
 
 {% block content %}
-  {% import 'translations.html' as translations with context %}
-  {{ translations.translations_for(page) }}
   {{ page.content }}
 {% endblock %}
