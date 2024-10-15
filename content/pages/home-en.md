@@ -37,7 +37,7 @@ Doing things you believe in and sharing that with those around you. Both on a la
 
 Making a positive contribution to the world, that's what I'm committed to.
 
-Whether by giving a concert with an ensemble in a elderly home, tutoring an elementary school student who has trouble reading or using [my knowledge and experience](https://www.linkedin.com/in/hiske-overweg/) to convince people that it is time to act and save the planet.
+Whether by giving a concert with an ensemble in a elderly home, tutoring an elementary school student who has difficulties reading or using [my knowledge and experience](https://www.linkedin.com/in/hiske-overweg/) to convince people that it is time to act and save the planet.
 
 A thinker who does and a doer who thinks with a touch of humor if possible.
 
@@ -46,7 +46,7 @@ My mission: to show people how rewarding it can be to work together on a future-
 
 ### Donuts?
 
-The donut in question is the [donut](https://www.kateraworth.com/doughnut/) from the Doughnut Economy by [Kate Raworth](https://www.kateraworth.com/), an economic model in which ecological boundaries are respected (the outer edge) while at the same time ensuring everyone's primary necessity is fullfilled (the inner edge).
+The donut in question is the [donut](https://www.kateraworth.com/doughnut/) from the Doughnut Economy by [Kate Raworth](https://www.kateraworth.com/), an economic model in which ecological boundaries are respected (the outer edge) while at the same time everyone's primary needs are fullfilled (the inner edge).
 
  <footer id="contentinfo" class="body">
 

@@ -5,7 +5,7 @@ order: 1
 
 <side-block>
   <side-content>
-    ![Alt Text]({static}/images/poster_fragile.png)
+    ![Alt Text]({static}/images/PDZ_presentation.jpg)
   </side-content>
 </side-block>
 
@@ -15,13 +15,17 @@ Om de aarde toekomstbestendig te maken, moeten er veel dingen gebeuren. Een van 
 
 <side-block>
   <side-content>
-    ![Alt Text]({static}/images/PDZ_presentation.jpg)
+![Alt Text]({static}/images/ci.png)
+De En-ROADS simulator is ontwikkeld door de denktank [Climate Interactive](https://climateinteractive.org) en [MIT Sloan Sustainability initiative](https://mitsloan.mit.edu/sustainability-initiative/welcome).
+![Alt Text]({static}/images/mit.png)
   </side-content>
 </side-block>
 
 Wat is bijvoorbeeld het effect als we meer bomen gaan planten? Heeft het zin om meer kerncentrales te bouwen om het probleem op te lossen? Is het zinvol om huizen beter te isoleren? Dat zijn een paar vragen die we moeten beantwoorden.
 
-Gelukkig kunnen we vandaag de dag al wel zien wat het effect is als we bepaalde dingen wel en andere dingen niet oppakken. Hoe kan je dit dan doen? In de VN klimaatactietop gebruiken we hiervoor de En-ROADS klimaatsimulator, gebaseerd op wetenschap en gericht op actie.
+
+Gelukkig kunnen we vandaag de dag al wel zien wat het effect is als we bepaalde dingen wel en andere dingen niet oppakken. Hoe kan je dit dan doen?
+In de VN klimaatactietop gebruiken we hiervoor de En-ROADS klimaatsimulator, gebaseerd op wetenschap en gericht op actie.
 
 ### Ochtendsessie - VN klimaatactietop
 

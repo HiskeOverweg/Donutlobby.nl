@@ -15,9 +15,9 @@ order: 2
 
 > Inspiring yet confronting!
 
-> It was an interesting, fun and educational evenening, with a lot of food for thought
+> It was an interesting, fun and educational evening, with a lot of food for thought
 
-Have you always dreamed of representing an oil company at a UN climate summit? Or would you like to crawl into the skin of a climate activist? This is your chanche! This game is an interactive role playing game in which you obtain insights in the perspectives and interests of powerful and outspoken stakeholders in the climate debate. As a farmer, oil magnate or politician, you are invited to join a special UN climate summit to reach the goals of the Paris agreement. Together with colleagues from your sector, you suggest solutions which are tested in a climate simulator. No prior knowledge is needed, anyone can join.
+Have you always dreamed of representing an oil company at a UN climate summit? Or would you like to crawl into the skin of a climate activist? This is your chance! This game is an interactive role playing game in which you obtain insights in the perspectives and interests of powerful and outspoken stakeholders in the climate debate. As a farmer, oil magnate or politician, you are invited to join a special UN climate summit to reach the goals of the Paris agreement. Together with colleagues from your sector, you suggest solutions which are tested in a climate simulator. No prior knowledge is needed, anyone can join.
 
 <side-block>
   <side-content>
