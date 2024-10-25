@@ -21,7 +21,7 @@ BTW NL005075352B78
 
 ![Alt Text]({static}/images/ci.png)
 
-The big UN Climate Action simulation was developed by [Climate Interactive](https://climateinteractive.org) and [MIT Sloan Sustainability initiative](https://mitsloan.mit.edu/sustainability-initiative/welcome).
+The Climate Action Simulation was developed by [Climate Interactive](https://climateinteractive.org) and [MIT Sloan Sustainability initiative](https://mitsloan.mit.edu/sustainability-initiative/welcome).
 ![Alt Text]({static}/images/mit.png)
 
 ![Alt Text]({static}/images/kin.svg)
