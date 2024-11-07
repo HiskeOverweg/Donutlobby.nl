@@ -13,6 +13,8 @@ order: 3
 
 * Wednesday 13 november 12:00-13:00 En-ROADS climate workshop (NL), online ([aanmelden](https://lu.ma/kiw75bhi))
 
+* Wednesday 8 january 19:30-22:00 Het grote VN klimaatsimulatiespel, Pakhuis De Zwijger (NL)
+
  ![Alt Text]({static}/images/PDZ_presentation_2.jpg)
 
 ## Past events
