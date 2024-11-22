@@ -11,13 +11,17 @@ order: 3
 
 ## Toekomstige evenementen
 
-* Woensdag 13 november 12:00-13:00 En-ROADS klimaatworkshop, online ([aanmelden](https://lu.ma/kiw75bhi))
-
 * Woensdag 8 januari 19:30-22:00 Het grote VN klimaatsimulatiespel, Pakhuis De Zwijger (details volgen)
 
  ![Alt Text]({static}/images/PDZ_presentation_2.jpg)
 
 ## Eerdere evenementen
+
+13-11-2024 En-ROADS klimaatworkshop, Nationale Klimaatweek, online
+
+11-11-2024 Het grote VN klimaatsimulatiespel, Stichting Klimaatgesprekken
+
+11-11-2024 Het grote VN klimaatsimulatiespel, Hogeschool Utrecht
 
 10-10-2024 En-ROADS klimaatworkshop - Inspirational talk, Hogeschool Utrecht
 
