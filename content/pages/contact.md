@@ -1,7 +1,7 @@
 Title: Contact
 slug: contact
 lang: nl
-order: 4
+order: 5
 
 # Contactgegevens
 
