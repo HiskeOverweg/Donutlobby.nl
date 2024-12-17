@@ -11,7 +11,7 @@ order: 3
 
 ## Toekomstige evenementen
 
-* Woensdag 8 januari 19:30-22:00 Het grote VN klimaatsimulatiespel, Pakhuis De Zwijger (details volgen)
+* Woensdag 8 januari 19:30-22:00 Het grote VN klimaatsimulatiespel, Pakhuis De Zwijger ([aanmelden](https://dezwijger.nl/programma/het-grote-vn-klimaatsimulatie-spel-2))
 
  ![Alt Text]({static}/images/PDZ_presentation_2.jpg)
 
