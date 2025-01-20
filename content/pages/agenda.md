@@ -11,11 +11,13 @@ order: 3
 
 ## Toekomstige evenementen
 
-* Woensdag 8 januari 19:30-22:00 Het grote VN klimaatsimulatiespel, Pakhuis De Zwijger ([aanmelden](https://dezwijger.nl/programma/het-grote-vn-klimaatsimulatie-spel-2))
+* Maandag 14 april 19:30-22:00 Het grote VN klimaatsimulatiespel, Forum Groningen (details volgen)
 
  ![Alt Text]({static}/images/PDZ_presentation_2.jpg)
 
 ## Eerdere evenementen
+
+8-1-2025 Het grote VN klimaatsimulatiespel, Pakhuis De Zwijger
 
 13-11-2024 En-ROADS klimaatworkshop, Nationale Klimaatweek, online
 

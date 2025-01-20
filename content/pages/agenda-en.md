@@ -11,11 +11,13 @@ order: 3
 
 ## Future events
 
-* Wednesday 8 january 19:30-22:00 Het grote VN klimaatsimulatiespel, Pakhuis De Zwijger (NL)
+* Monday April 14 19:30-22:00 Climate Action Simulation (NL), Forum Groningen (details volgen)
 
  ![Alt Text]({static}/images/PDZ_presentation_2.jpg)
 
 ## Past events
+
+8-1-2025 Climate Action Simulation, Pakhuis De Zwijger, Amsterdam
 
 13-11-2024 En-ROADS climate workshop, Nationale Klimaatweek, online
 
