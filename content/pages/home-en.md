@@ -29,7 +29,7 @@ De Donutlobby is committed to a future-proof planet. I increase the support for 
   </side-content>
 </side-block>
 
-### About me
+### About me, Hiske Overweg
 
 Living consciously, that's what it's all about for me.
 
