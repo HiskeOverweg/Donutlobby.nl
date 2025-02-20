@@ -11,7 +11,7 @@ order: 3
 
 ## Future events
 
-* Monday April 14 19:30-22:00 Climate Action Simulation (NL), Forum Groningen (details volgen)
+* Monday April 14 19:30-22:00 Climate Action Simulation (NL), Forum Groningen ([aanmelden](https://forum.nl/nl/agenda/cursussen/het-grote-vn-klimaatsimulatiespel))
 
 * Tuesday April 15 18:00-20:30 Climate Action Simulation (NL), VVM, Utrecht ([aanmelden](https://www.vvm.info/activiteit/het-grote-vn-klimaatsimulatiespel))
 
