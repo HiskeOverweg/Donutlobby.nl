@@ -3,6 +3,8 @@ slug: over-mij
 lang: nl
 order: 4
 
+*[Hier](https://open.spotify.com/episode/4Ow8notEgm3Xu6z5KHzGeB) vind je een interview met mij in de ESG Even samen gevat podcast*
+
 Bewust leven, daar draait het voor mij om.
 
 Dat je de dingen doet waarin je gelooft en dat op een positieve manier deelt met je omgeving. Zowel op grote als op kleine schaal. Vanuit betrokkenheid en respect voor al het leven om ons heen.
