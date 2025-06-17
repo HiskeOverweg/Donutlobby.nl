@@ -11,12 +11,12 @@ order: 3
 
 ## Future events
 
-* Monday April 14 19:30-22:00 Climate Action Simulation (NL), Forum Groningen ([aanmelden](https://forum.nl/nl/agenda/cursussen/het-grote-vn-klimaatsimulatiespel))
-
-
  ![Alt Text]({static}/images/PDZ_presentation_2.jpg)
 
 ## Past events
+17-5-2025 Demo, DuurSamen Festival, Hilversum
+
+14-4-2025 Climate Action Simulation (NL), Forum Groningen
 
 8-1-2025 Climate Action Simulation, Pakhuis De Zwijger, Amsterdam
 

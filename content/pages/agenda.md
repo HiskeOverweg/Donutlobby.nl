@@ -11,12 +11,12 @@ order: 3
 
 ## Toekomstige evenementen
 
-* Maandag 14 april 19:30-22:00 Het grote VN klimaatsimulatiespel, Forum Groningen ([aanmelden](https://forum.nl/nl/agenda/cursussen/het-grote-vn-klimaatsimulatiespel))
-
-
  ![Alt Text]({static}/images/PDZ_presentation_2.jpg)
 
 ## Eerdere evenementen
+17-5-2025 Demo, DuurSamen Festival, Hilversum
+
+14-4-2025 Het grote VN klimaatsimulatiespel, Forum Groningen
 
 8-1-2025 Het grote VN klimaatsimulatiespel, Pakhuis De Zwijger
 

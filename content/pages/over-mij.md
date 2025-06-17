@@ -3,7 +3,12 @@ slug: over-mij
 lang: nl
 order: 4
 
-*[Hier](https://open.spotify.com/episode/4Ow8notEgm3Xu6z5KHzGeB) vind je een interview met mij in de ESG Even samen gevat podcast*
+<side-block>
+  <side-content>
+    ![bla]({static}/images/esg.png)
+    [Hier](https://open.spotify.com/episode/4Ow8notEgm3Xu6z5KHzGeB) vind je een interview met mij in de ESG Even samen gevat podcast
+  </side-content>
+</side-block>
 
 Bewust leven, daar draait het voor mij om.
 
