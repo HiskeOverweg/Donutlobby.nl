@@ -9,8 +9,6 @@ order: 5
 
 [LinkedIn](https://www.linkedin.com/company/104477035/)
 
-[Instagram](https://www.instagram.com/donutlobby/)
-
 Hiske Overweg
 
 De Donutlobby
