@@ -56,10 +56,10 @@ In de huidige wereldwijde energievoorziening speelt nucleaire energie een vrij k
 Uiteindelijk voorkomt de bovengenoemde subsidie slechts een beperkte uitstoot van broeikasgassen (vergelijk hiernaast het lichtblauwe scenario met subsidie met het zwarte scenario zonder subsidie), en daarmee voorkomt het dan 0,1°C opwarming. Dat is natuurlijk niet niks, maar er zijn zeker andere beleidsmaatregelen te bedenken met een grotere impact.
 
 
-#### En thoriumreactoren dan? Of kernfusie?
+#### En Small Modular Reactors dan? Of kernfusie? Of thoriumreactoren?
 
 
-Om nog eventjes "The Nuclear Bro" uit te hangen, zoals Rutger Bregman het formuleerde: zijn er geen andere veelbelovende opties zoals kernsplijting gebaseerd op thorium en kernfusie? Deze technieken werken nog niet op commerciële schaal, en ook als we aannemen (hoogst speculatief) dat dat binnenkort gebeurt, gaat er veel tijd in de opschaling zitten. Zelfs in het hoogst optimistische scenario waarin we ervan uit gaan dat deze nieuwe energiebron spotgoedkoop wordt, kan ook hiermee hooguit 0,1°C opwarming worden voorkomen.
+Om nog eventjes "The Nuclear Bro" uit te hangen, zoals Rutger Bregman het formuleerde: zijn er geen andere veelbelovende opties zoals Small Modular Reactors, kernsplijting gebaseerd op thorium en kernfusie? Deze technieken werken nog niet op commerciële schaal, en ook als we aannemen (hoogst speculatief) dat dat binnenkort gebeurt, gaat er veel tijd in de opschaling zitten. In En-ROADS vallen deze bronnen in de categorie "New Zero": nieuwe typen energiebronnen die geen koolstof uitstoten. Zelfs in het hoogst optimistische scenario waarin we ervan uit gaan dat deze nieuwe energiebron spotgoedkoop wordt, kan ook hiermee hooguit 0,1°C opwarming worden voorkomen.
 
 ![Alt Text]({static}/images/nuclear/6_new_zero.png)
 
