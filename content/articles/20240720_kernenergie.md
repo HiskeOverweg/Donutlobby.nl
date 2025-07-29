@@ -44,7 +44,7 @@ Naarmate je meer van iets maakt, wordt het ook goedkoper. Als je twee keer zovee
 
 
 #### Het totaalplaatje in En-ROADS
-In de huidige wereldwijde energievoorziening speelt nucleaire energie een vrij kleine rol (het miniscule lichtblauwe stukje bovenaan de linker grafiek). Zelfs met de bovengenoemde subsidie van 0,07 $/kWh, zal dat aandeel niet heel veel groter worden (zie rechtergrafiek). Dit komt omdat het lang duurt om een kerncentrale te plannen, te bouwen en te testen. Daarom zie je pas een duidelijk verschil tussen het ongesubsidieerde scenario en het gesubsidieerde scenario vanaf 2040.
+In de huidige wereldwijde energievoorziening speelt nucleaire energie een vrij kleine rol (het miniscule lichtblauwe stukje bovenaan de linker grafiek). Zelfs met de bovengenoemde subsidie van 0,07 $/kWh, zal dat aandeel niet heel veel groter worden (zie rechter grafiek). Dit komt omdat het lang duurt om een kerncentrale te plannen, te bouwen en te testen: je bent zeker een jaar of tien kwijt aan het plannen van een nieuwe reactor en het aanvragen van vergunningen. Dan moet de bouw nog beginnen, en daar gaat vaak ook al snel een decennium overheen. Daarom zie je pas een duidelijk verschil tussen het ongesubsidieerde scenario en het gesubsidieerde scenario vanaf 2040.
 
 ![Alt Text]({static}/images/nuclear/4_energy_sources_diff.png)
 
@@ -53,7 +53,7 @@ In de huidige wereldwijde energievoorziening speelt nucleaire energie een vrij k
         ![Alt Text]({static}/images/nuclear/5_emissions.png)
     </side-content>
 </side-block>
-Uiteindelijk voorkomt de bovengenoemde subsidie slechts een beperkte uitstoot van broeikasgassen (vergelijk hieronder het lichtblauwe scenario met subsidie met het zwarte scenario zonder subsidie), en daarmee voorkomt het dan 0,1°C opwarming. Dat is natuurlijk niet niks, maar er zijn zeker andere beleidsmaatregelen te bedenken met een grotere impact.
+Uiteindelijk voorkomt de bovengenoemde subsidie slechts een beperkte uitstoot van broeikasgassen (vergelijk hiernaast het lichtblauwe scenario met subsidie met het zwarte scenario zonder subsidie), en daarmee voorkomt het dan 0,1°C opwarming. Dat is natuurlijk niet niks, maar er zijn zeker andere beleidsmaatregelen te bedenken met een grotere impact.
 
 
 #### En thoriumreactoren dan? Of kernfusie?
