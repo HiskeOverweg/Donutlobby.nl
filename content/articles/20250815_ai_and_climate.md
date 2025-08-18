@@ -86,7 +86,7 @@ Personally, I am a bit skeptic of vast productivity increases - [here](https://m
 It is too early to quantify any precise impacts which AI will have on climate change. In this posts I highlighted a few different ways in which AI might impact the climate: via energy consumption of AI, contribution to climate solutions, support of the fossil fuel industry and potential increases in productivity. Especially the threat of increased fossil fuel extraction by AI deserves more attention in my opinion.
 
 ### Acknowledgements
-This blogpost was inspired by the [webinar](https://www.youtube.com/watch?v=4Mizufxhfqk) AI and the Climate: Solution or Environmental Threat? by Climate Interactive, which in its turn was based on the thesis report "The Net Climate Impact of AI: Balancing Current Costst with Future Benefits by Jennifer Turliuk.
+This blogpost was inspired by the [webinar](https://www.youtube.com/watch?v=4Mizufxhfqk) "AI and the Climate: Solution or Environmental Threat?" by Climate Interactive, which in its turn was based on the thesis report "The Net Climate Impact of AI: Balancing Current Costst with Future Benefits by Jennifer Turliuk.
 
 ##### More information on En-ROADS
 
