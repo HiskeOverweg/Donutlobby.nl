@@ -1,28 +1,31 @@
 Title: The impact of AI on Climate Change
 slug: the-impact-of-ai-on-climate-change
 lang: en
-Date: 2025-08-18 10:00
+Date: 2025-08-21 10:00
 
 The impact of AI on climate change is a hot topic. Proponents of AI will tell you that AI will soon be smart enough to solve a significant part of the climate crisis. Others are worried about the gigantic energy consumption of these models. In this post, I will discuss a four mechanisms in which AI impacts climate change, some of which are often overlooked.
 
 ### 1. Energy consumption of AI
-How much energy does AI consume? Unfortunately this is not an easy question to answer, since Big Tech companies are getting less and less transparent about the energy use of their models. Current estimates are on the order of 0.7 EJ per year (thats 0.7 x 10<sup>18</sup> J)
+How much energy does AI consume? Unfortunately this is not an easy question to answer, since Big Tech companies are getting less and less transparent about the energy use of their models. Current estimates are on the order of 0.7 EJ per year (thats 0.7 x 10<sup>18</sup> J).
 
 ![]({static}/images/ai/1.png)
 
-The total worldwide energy consumption is currently on the order of 400 EJ per year, so currently AI consumes on the order of 0.2% of that, which is considerable, but not enormous I'd say. Two different angles to look at that number:
+The total worldwide energy consumption is currently on the order of 400 EJ per year, so currently AI consumes roughly 0.2% of that, which is considerable, but not enormous I'd say. Two different angles to look at that number:
 
 ##### Net-zero pledges
-When we look at the commitments Big Tech companies have made to reach net zero, we start to see a bigger and bigger gap between their promises and what they deliver so far. Below you see a graph of Microsoft's emissions in the past couple of years. This gap between pledges and results is illustrative for the whole industry.
+When we look at the commitments Big Tech companies have made to reach net zero, we start to see a bigger and bigger gap between their promises and what they deliver so far. Below you see a graph of Microsoft's emissions in the past couple of years. This gap between pledges and results is illustrative for the whole industry and is in large part driven by AI.
 
 ![]({static}/images/ai/2.jpg)
 
 ##### Individual perspective
-On the one hand you might conclude that 0.2% of the total energy consumption is not that much. On the other hand you could ask yourself whether the world is really better off after you generated a picture of farm animals wearing haute couture. It is energy which can be relatively easily saved, if you compare it to the energy needed to keep your fridge cool, for example.
+On the one hand you might conclude that 0.2% of the total energy consumption is not that much. On the other hand you could ask yourself whether the world is really better off after you generated a picture of a cat driving a car. It is energy which can be relatively easily saved, if you compare it to the energy needed to keep your fridge cool, for example.
+
+##### Water use
+Energy consumption is not the only impact of data centers on the environment. They also use vast amounts of water, creating issues in their surroundings since water is harder to transport than energy. This week's [GreenIO podcast](https://podcloud.fr/podcast/greenio/episode/numero-62-thirsty-datacenters-in-the-heart-of-silicon-valley-with-masheika-allgood) dives into that topic. In the episode Masheika Allgood presented the [Data Center Water Consumption Calculator](https://www.tapsrundry.com/data-center-water-consumption-calculator), a tool which can help estimate the water use of data centers, and also discusses air and noise pollution in the vicinity of data centers. It is well worth a listen!
 
 
 ### 2. AI solutions contributing to sustainability
-Admittedly, AI can do more useful things than generating pictures of farm animals wearing haute couture. Here I'll illustrate a few. In case you want a more extensive overview, I refer you to the [paper](https://arxiv.org/abs/1906.05433) "Tackling Climate Change with Machine Learning" by David Rolnick et al.
+Admittedly, AI can do more useful things than generating pictures of feline drivers. Here I'll illustrate a few. In case you want a more extensive overview, I refer you to the [paper](https://arxiv.org/abs/1906.05433) "Tackling Climate Change with Machine Learning" by David Rolnick et al.
 
 ##### Predictions of energy supply and demand
 AI can make better forecasts of energy availability. This could help us make more use of renewable energy whenever it is available. An example would be to charge an electric car when plenty of wind energy is available. On top of that AI can help with predictive maintenance, reducing the downtime of solar panels. In En-ROADS we can model this boost in renewable energy. It is hard to put an exact number on it, but let's assume we manage to increase the consumption of renewables with 10% in 2040 (the blue line in the graph below), compared to the business-as-usual scenario (black line). This will lead to a reduction in temperature of roughly 0.1°C at the end of the century.
@@ -36,7 +39,7 @@ AI can help improve the design of electric motors. [Here](https://eprints.whiter
 
 ![]({static}/images/ai/4.png)
 
-AI can also increase transport efficiency by combining shipments in a clever way. The combined effect of these two measures leads again to a to a temperature reduction on the order of 0.1°C in the year 2100. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?v=25.8.0&p50=1.5&p373=5)
+AI can also increase transport efficiency by combining shipments in a clever way. The combined effect of these two measures leads again to a temperature reduction on the order of 0.1°C in the year 2100. [Scenario link](https://en-roads.climateinteractive.org/scenario.html?v=25.8.0&p50=1.5&p373=5)
 
 ##### Heating of buildings and energy efficiency in industry
 AI can combine weather forecast data with predictions of building occupancy to determine the most efficient strategy to heat a building. AI can also help design buildings which are easier to heat an cool. [This paper](https://www.mdpi.com/1996-1073/17/17/4277) estimates that the savings could be at least 20% for different building types. Now, that is an academic result and the proof of the pudding is in the eating.
@@ -68,26 +71,27 @@ In recent years, satellites have been developed which can identify locations of 
 The above applications typically make use of neural networks, transformer models or Bayesian models, none of which require as much energy as large language models, which are getting so much attention these days. So yes, AI can help reduce the impact of climate change, but so far I haven't seen any convincing application of its most energy intensive variant.
 
 ### 3. Drill agent, drill
-In the last decades, an important application of AI has been to make fossil fuel extraction more efficient. As [this report](https://heinonline-org.utrechtuniversity.idm.oclc.org/HOL/Page?collection=journals&handle=hein.journals/euenj7&id=185&men_tab=srchresults) by the IEA from 2017 estimates, digital technologies can reduce production costs by 10%-20% and help increase recoverable oil and gas resources by 5%.
+In contrast to the above solutions, most of which have only been pioneered recently, AI is already being used in the fossil fuel industry to make extraction more efficient. As [this report](https://heinonline-org.utrechtuniversity.idm.oclc.org/HOL/Page?collection=journals&handle=hein.journals/euenj7&id=185&men_tab=srchresults) by the IEA from 2017 estimates, digital technologies can reduce production costs by 10%-20% and help increase recoverable oil and gas resources by 5%.
 
-To understand the full extent to which this can harm our fight against global warming, let us do a little thought experiment in En-ROADS. Let's assume that our political leaders wake up and decide that the current level of fossil fuel subsidy is no longer acceptable in a world which is hit already so hard by the climate crisis. They decide to reduce the subsidies and thereby reduce global warming by 0.3°C compared to the baseline scenario ([scenario link](https://en-roads.climateinteractive.org/scenario.html?v=25.8.0&p1=60&p7=50&p10=2.9&p47=1.3&p177=105000&p178=15700&p179=15700)). "Hurray, finally some progress!" you might think. Now the tech industry enters play with AI models which helps Big Oil, with cheaper monitoring of transmission lines with drones, predictive maintenance of machinery etc. This way, they undo the government efforts and increase emissions compared to the business as usual scenario, leading to higher emissions and an increase of global warming of 0.4°C compared to the previous scenario [scenario link](https://en-roads.climateinteractive.org/scenario.html?v=25.8.0&p1=-15&p7=-15&p10=-0.7&p47=1.3&p177=105000&p178=15700&p179=15700).
+To understand the full extent to which this can harm our fight against global warming, let us do a little thought experiment in En-ROADS. Let's assume that our political leaders wake up and decide that the current level of fossil fuel subsidy is no longer acceptable in a world which is hit already so hard by the climate crisis. They decide to reduce the subsidies and thereby reduce global warming by 0.3°C compared to the baseline scenario ([scenario link](https://en-roads.climateinteractive.org/scenario.html?v=25.8.0&p1=60&p7=50&p10=2.9&p47=1.3&p177=105000&p178=15700&p179=15700)). "Hurray, finally some progress!" you might think. Now the tech industry enters play with AI models which help Big Oil, with cheaper monitoring of transmission lines with drones, predictive maintenance of machinery etc. This way, they undo the government efforts and increase emissions compared to the business as usual scenario, leading to higher emissions and an increase of global warming of 0.4°C compared to the previous scenario [(scenario link)](https://en-roads.climateinteractive.org/scenario.html?v=25.8.0&p1=-15&p7=-15&p10=-0.7&p47=1.3&p177=105000&p178=15700&p179=15700).
 
 The sponsoring of the oil and gas industry by Big Tech deserves more of our attention. People in Tech can sign the "Tech Won't Drill it" [pledge](https://medium.com/@techwontdrillit/tech-wont-drill-it-a63594dc6e66) and anyone who wishes to hold Big Tech accountable can support the [Enabled Emissions Campaign](https://www.enabledemissions.com)
 
 ### 4. Increased productivity
 
 Proponents of AI claim AI will lead to vast increases in productivity. Increases of productivity lead to increases in GDP. Let's increase GDP from 1.5% per year to 2% per year. The effect on the climate in En-ROADS can be illustrated with the Kaya graphs.
-The total emissions from the energy sector can be obtained by multiplying the population with the GDP per capita, the energy insensity of the GDP and the carbon intensity of energy. So a higher GDP per capita (second graph) will lead to higher emissions (fifth graph), and an increase of the temperature at the end of the century by 0.2°C.
+The total emissions from the energy sector can be obtained by multiplying the population with the GDP per capita, the energy insensity of the GDP and the carbon intensity of energy (the first four graphs below). So a higher GDP per capita (second graph) will lead to higher emissions (fifth graph), and an increase of the temperature at the end of the century by 0.2°C.
+
 ![]({static}/images/ai/8.png)
 
 Personally, I am a bit skeptic of vast productivity increases - [here](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/) is a recent study which shows that AI use is currently still slowing down software developers rather than speeding them up. This could still change in the future of course.
 
 ### Conclusion
-It is too early to quantify any precise impacts which AI will have on climate change. In this posts I highlighted a few different ways in which AI might impact the climate: via energy consumption of AI, contribution to climate solutions, support of the fossil fuel industry and potential increases in productivity. Especially the threat of increased fossil fuel extraction by AI deserves more attention in my opinion.
-
-### Acknowledgements
-This blogpost was inspired by the [webinar](https://www.youtube.com/watch?v=4Mizufxhfqk) "AI and the Climate: Solution or Environmental Threat?" by Climate Interactive, which in its turn was based on the thesis report "The Net Climate Impact of AI: Balancing Current Costst with Future Benefits by Jennifer Turliuk.
+It is too early to quantify any precise impacts which AI will have on climate change. In this posts I highlighted a few different ways in which AI might impact the climate: via energy consumption of AI, contribution to climate solutions, support of the fossil fuel industry and potential increases in productivity. Especially the threat of increased fossil fuel extraction by AI deserves more attention in my opinion. On top of that we shouldn't forget more local environmental issues which data centers create today: water scarcity and air and noise pollution.
 
 ##### More information on En-ROADS
 
 Curious about the En-ROADS climate simulator? Checkout the [website](https://www.climateinteractive.org/) of Climate Interactive for various webinar, workshop and game formats. In case you are based in Europe, check my [agenda](({filename}../pages/agenda.md)) for public events, or get in touch to book a workshop via [e-mail](mailto:info@donutlobby.nl).
+
+### Acknowledgements
+This blogpost was inspired by the [webinar](https://www.youtube.com/watch?v=4Mizufxhfqk) "AI and the Climate: Solution or Environmental Threat?" by Climate Interactive, which in its turn was based on the thesis report "The Net Climate Impact of AI: Balancing Current Costs with Future Benefits by Jennifer Turliuk. The GreenIO podcast [episode](https://podcloud.fr/podcast/greenio/episode/numero-62-thirsty-datacenters-in-the-heart-of-silicon-valley-with-masheika-allgood) hosted by Gaël Duez in which Masheika Allgood made me understand we should not merely think in terms of energy use when considering the environmental impact of data centers.
