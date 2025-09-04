@@ -3,6 +3,7 @@ slug: agenda
 lang: nl
 order: 3
 
+
 <side-block>
   <side-content>
     ![Alt Text]({static}/images/doe_mee.svg)
@@ -10,6 +11,8 @@ order: 3
 </side-block>
 
 ## Toekomstige evenementen
+
+25-9-2025 En-ROADS klimaatsimulatie, 19:15, SDG hub Amersfoort [meer info & aanmelden](https://klimaatweek.nl/agenda/5c409858-126c-4439-a413-7dc0c112ea74)
 
  ![Alt Text]({static}/images/PDZ_presentation_2.jpg)
 
