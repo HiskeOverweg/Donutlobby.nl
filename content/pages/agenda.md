@@ -12,11 +12,12 @@ order: 3
 
 ## Toekomstige evenementen
 
-25-9-2025 En-ROADS klimaatsimulatie, 19:15, SDG hub Amersfoort [meer info & aanmelden](https://klimaatweek.nl/agenda/5c409858-126c-4439-a413-7dc0c112ea74)
-
  ![Alt Text]({static}/images/PDZ_presentation_2.jpg)
 
 ## Eerdere evenementen
+
+25-9-2025 En-ROADS klimaatsimulatie, 19:15, SDG hub Amersfoort
+
 17-5-2025 Demo, DuurSamen Festival, Hilversum
 
 14-4-2025 Het grote VN klimaatsimulatiespel, Forum Groningen
