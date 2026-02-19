@@ -12,11 +12,11 @@ order: 3
 
 ## Toekomstige evenementen
 
-19-1-2025 En-ROADS klimaatsimulatie, 19:30, Pakhuis de Zwijger [aanmelden](https://dezwijger.nl/programma/het-grote-vn-klimaatsimulatie-spel-3)
-
  ![Alt Text]({static}/images/PDZ_presentation_2.jpg)
 
 ## Eerdere evenementen
+
+19-1-2026 En-ROADS klimaatsimulatie, 19:30, Pakhuis de Zwijger
 
 25-9-2025 En-ROADS klimaatsimulatie, 19:15, SDG hub Amersfoort
 
